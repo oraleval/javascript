@@ -1,2 +1,2 @@
 # javascript
-*  [Http API文档](https://github.com/oraleval/javascript/blob/master/api.md)
+*  [API文档](https://github.com/oraleval/javascript/blob/master/api.md)
